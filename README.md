@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirginieT
-- 🌱 I’m currently learning HTML, CSS, PHP, JS
-- 💞️ I’m ready to collaborate around Bordeaux and it's Nothern area after the end of April.
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, POO, MVC, Scrum/ Agile method... (more learnings to come)
+- 💞️ I’m ready to collaborate around Bordeaux and its nothern area from the end of April.
 - 📫 How to reach me : vtouzalin33@gmail.com
 
 <!---
