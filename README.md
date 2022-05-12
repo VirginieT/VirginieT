@@ -34,7 +34,7 @@ Hi, I’m @VirginieT, a french developer from France.
 
 ### :hammer_and_wrench: Languages and Tools :
 #### Mostly used : 
-<div style="background-color:white;">
+<div style="background: #ffe7e8;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
   <img src="https://getcomposer.org/img/logo-composer-transparent.png" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
@@ -45,11 +45,12 @@ Hi, I’m @VirginieT, a french developer from France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+
    
  #### Occasionally used : 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -76,10 +77,13 @@ Hi, I’m @VirginieT, a french developer from France.
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginieT&count_private=true&show_icons=true&theme=radical&border_color=842141)](https://github.com/VirginieT/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VirginieT&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=F42F62)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieT&layout=compact&theme=radical&border_color=842141)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginieT&theme=radical&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginieT&count_private=true&show_icons=true&theme=outrun)](https://github.com/VirginieT/github-readme-stats)
-
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginieT&theme=outrun&show_icons=true)
+-->
 
 
 
