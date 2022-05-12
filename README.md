@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VirginieT
-- 🌱 I’m currently learning PHP, Symfony, Doctrine, Twig,  HTML, CSS, JS, POO, MVC, MVP, Scrum/ Agile method... 
-- 💞️ I’m ready to collaborate around Bordeaux and its nothern area from the end of April.
+- 🌱 I’m web developer PHP, Symfony, Doctrine, Twig, HTML, CSS, JS...
+- 💻 I'm working with Linux, Ubuntu, VSCode, MVC, MVP, Scrum/ Agile methods... 
+- 💞️ I’m ready to collaborate around Bordeaux and its nothern area.
 - 📫 How to reach me : vtouzalin33@gmail.com
 - https://www.linkedin.com/in/virginie-touzalin-13ba54226/
 
