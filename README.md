@@ -7,6 +7,8 @@
  } ,
 -->
 
+
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <i class="devicon-devicon-plain"></i>
 
@@ -20,21 +22,43 @@
   </h1>
 </div>
 
-
-
 ### :woman_technologist: About Me :
+
+
+<div>
+ <a href="https://github.com/VirginieT/VirginieT">
+  <img align="right" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=VirginieT&count_private=true&show_icons=true&theme=radical&border_color=842141" />
+</a>
+
+  
 Hi, I’m @VirginieT, a french developer from France.
+
+ 
 - 🖥️ I started learning to code in 2021.
 
 - :telescope: In my free time, I'm working as a web developer for One4All association and contributing to frontend and backend for building web applications.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-touzalin-13ba54226/)  / vtouzalin33@gmail.com
+- :mailbox: How to reach me : <a href="https://www.linkedin.com/in/virginie-touzalin-13ba54226/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginie-touzalin-13ba54226/"></a>
+ / vtouzalin33@gmail.com
 
-- 💞️ I’m looking for a working collaboration around Bordeaux and to its north area.
+- 💞️ I’m looking for a working collaboration around Bordeaux and to its north area.     
+
+ 
+</div>
+
+##
+<div>
 
 ### :hammer_and_wrench: Languages and Tools :
+ 
 #### Mostly used : 
 <div style="background: #ffe7e8;">
+
+
+<a href="https://github.com/VirginieT/VirginieT">
+  <img align="right" height="270" width="378" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieT&layout=compact&theme=radical&border_color=842141" />
+</a>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
   <img src="https://getcomposer.org/img/logo-composer-transparent.png" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
@@ -75,17 +99,13 @@ Hi, I’m @VirginieT, a french developer from France.
   
 </div>
 
----
-<a href="https://github.com/VirginieT/VirginieT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VirginieT&count_private=true&show_icons=true&theme=radical&border_color=842141" />
-</a>
+
+
 <a href="https://github.com/VirginieT/VirginieT">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VirginieT&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=F42F62" />
 </a>
-<a href="https://github.com/VirginieT/VirginieT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieT&layout=compact&theme=radical&border_color=842141" />
-</a>
 
+</div>
 
 
 <!-- 
@@ -96,7 +116,7 @@ Hi, I’m @VirginieT, a french developer from France.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirginieT&theme=outrun&show_icons=true)
 -->
 
-
+</body>
 
 <!---
 VirginieT/VirginieT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
