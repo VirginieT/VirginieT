@@ -26,10 +26,10 @@
 
 
 <div>
- <a href="https://github.com/VirginieT/VirginieT">
+<!-- <a href="https://github.com/VirginieT/VirginieT">
   <img align="right" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=VirginieT&count_private=true&show_icons=true&theme=radical&border_color=842141" />
 </a>
-
+-->
   
 Hi, I’m @VirginieT, a french developer from France.
 
@@ -50,10 +50,10 @@ Hi, I’m @VirginieT, a french developer from France.
 <div>
 
 ### :hammer_and_wrench: Languages and Tools :
- <a href="https://github.com/VirginieT/VirginieT">
+<!-- <a href="https://github.com/VirginieT/VirginieT">
   <img align="right" height="270" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieT&layout=compact&theme=radical&border_color=842141" />
 </a>
- 
+--> 
 #### Mostly used : 
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
@@ -83,9 +83,10 @@ Hi, I’m @VirginieT, a french developer from France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-   <a href="https://github.com/VirginieT/VirginieT">
-  <img align="right" height="300" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=VirginieT&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=F42F62" />
-</a>
+   
+ 
+ 
+ 
 <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
@@ -99,7 +100,10 @@ Hi, I’m @VirginieT, a french developer from France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrain" alt="jetbrain" width="40" height="40"/>&nbsp;
-  
+   
+<a href="https://github.com/VirginieT/VirginieT">
+  <img align="center" height="300" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=VirginieT&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=F42F62" />
+</a>
 </div>
 
 
