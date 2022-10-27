@@ -36,7 +36,7 @@ Hi, I’m @VirginieT, a french developer from France.
  
 - 🖥️ I started learning to code in 2021.
  
--  I'm currently doing an internship for a web development company : WebInCompany.
+- :building_construction: I'm currently doing an internship for a web development company : WebInCompany.
  
 - :telescope: In my free time, I'm working as a web developer for Wecheers and contributing to backend (Symfony) for building mobile application (available on Google and Ios stores).
  
