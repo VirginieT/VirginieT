@@ -37,7 +37,7 @@ Hi, I’m @VirginieT, a french developer from France.
 - 🖥️ I started learning to code in 2021.
  
 
-- :telescope: During my free time, I develop a mobile application called WeCheers, which is available on Google Play and IOS.
+- :telescope: During my free time, I develop a mobile application called WeCheers (backend, using Symfony), which is available on Google Play and IOS.
  [Visible here](https://apps.apple.com/us/app/wecheers/id1616746725)
  
 - :building_construction: I am currently undergoing training as a software tester using Agile methodology.
