@@ -36,12 +36,11 @@ Hi, I’m @VirginieT, a french developer from France.
  
 - 🖥️ I started learning to code in 2021.
  
-- :building_construction: I'm currently doing an internship for a web development company : WebInCompany.
+
+- :telescope: During my free time, I develop a mobile application called WeCheers, which is available on Google Play and IOS.
+ [Visible here](https://apps.apple.com/us/app/wecheers/id1616746725)
  
-- :telescope: During my free time, I develop a mobile application called Wecheers, which is available on Google Play and IOS.
- <a href="https://apps.apple.com/us/app/wecheers/id1616746725">
- 
-- 💞️ I am currently undergoing training as a software tester using Agile methodology.
+- :building_construction: I am currently undergoing training as a software tester using Agile methodology.
 
 
 - :mailbox: How to reach me : <a href="https://www.linkedin.com/in/virginie-touzalin-13ba54226/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginie-touzalin-13ba54226/"></a>
