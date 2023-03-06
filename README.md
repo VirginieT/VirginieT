@@ -40,7 +40,7 @@ Hi, I’m @VirginieT, a french developer from France.
  
 - :telescope: In my free time, I'm working as a web developer for Wecheers and contributing to backend (Symfony) for building mobile application (available on Google and Ios stores).
  
-- 💞️ I’m looking for a working collaboration around Bordeaux and to its north area. 
+- 💞️ I am currently undergoing training as a software tester using Agile methodology.
 
 
 - :mailbox: How to reach me : <a href="https://www.linkedin.com/in/virginie-touzalin-13ba54226/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginie-touzalin-13ba54226/"></a>
