@@ -31,7 +31,7 @@
 </a>
 
   
-Hi, I’m @VirginieT, a french developer from France.
+Hi, I’m @VirginieT, a french developer.
 
  
 - 🖥️ I started learning to code in 2021.
